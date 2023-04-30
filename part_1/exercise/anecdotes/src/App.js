@@ -52,8 +52,6 @@ const App = () => {
       return updatedVotes;
     })
   }
-  
-
 
   return (
     <div>
